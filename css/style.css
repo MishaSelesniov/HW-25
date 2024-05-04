@@ -1,0 +1,28 @@
+.kuadrat-2 {
+    width: 109px;
+    height: 109px;
+    background-color: rgb(217, 44, 9);
+    position: relative;
+    top: 150px;
+    left: 90px;
+    z-index: 2;
+  }
+  .kuadrat-1 {
+    width: 109px;
+    height: 109px;
+    background-color: rgba(0, 0, 255, 0.888);
+    position: relative;
+    top: 80px;
+    left: 160px;
+    z-index: 4;
+  }
+  
+  .kuadrat-3 {
+    width: 109px;
+    height: 109px;
+    background-color: rgba(9, 222, 9, 0.785);
+    position: relative;
+    bottom: -10px;
+    left: 219px;
+    z-index: 3;
+  }
